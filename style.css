@@ -259,4 +259,7 @@ img {
     body {
         background-color: blue;
     }
+     #masthead {
+      position: static
+    }
 }
